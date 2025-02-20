@@ -65,6 +65,3 @@ cd Clothesandhairsegmentation
 
 Feel free to fork the repo, create a branch, and submit a Pull Request 🚀
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
